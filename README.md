@@ -74,7 +74,7 @@ A machine learning project built with Python, TensorFlow/Keras and OpenCV that c
 - 🥉 Bronze Award – QUT AI & Machine Learning Society Hackathon (Best First-Year Project)
 - 🎓 Bachelor of Information Technology – Queensland University of Technology
 - 📚 GPA: 5.75 / 7.0
-- ⭐ Achieved a 99% final grade in IBF102
+- ⭐ Achieved a 99% final grade in IFB102
 
 ---
 
